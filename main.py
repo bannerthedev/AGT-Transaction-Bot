@@ -2167,7 +2167,7 @@ async def addscrim(
 
     msg = (
         f"{team1.mention} vs {team2.mention}\n\n"
-        "# Welcome to MMM Bracket.\n"
+        "# Welcome to AGT Bracket.\n"
         "> 📅 You guys will have 3 day to schedule \n"
         "> ⚔️ And 4 days to play\n"
         "> Ping a staff member when you're ready to schedule or have any questions!"
