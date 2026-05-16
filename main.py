@@ -1706,7 +1706,7 @@ class TeamManager(commands.Cog):
 )
 async def info(interaction: discord.Interaction):
     embed = discord.Embed(
-        title="MMM Transactions Bot – Command Guide",
+        title="AGT Transactions Bot – Command Guide",
         description="Public + team commands.",
         colour=discord.Colour.blurple(),
     )
@@ -1792,7 +1792,7 @@ async def admin_info(interaction: discord.Interaction):
         return
 
     embed = discord.Embed(
-        title="MMM Transactions Bot – Admin Command Guide",
+        title="AGT Transactions Bot – Admin Command Guide",
         description="Admin-only commands.",
         colour=discord.Colour.red(),
     )
